@@ -1,0 +1,11 @@
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\bin\Debug\netcoreapp2.0\Api.dll
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.csprojResolveAssemblyReference.cache
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\bin\Debug\netcoreapp2.0\Api.pdb
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.dll
+E:\TsWorkspace\DotnetCore\Performance-Load\Apps\AppMetricsDemo\Api\obj\Debug\netcoreapp2.0\Api.pdb
